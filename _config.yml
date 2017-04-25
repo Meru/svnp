@@ -1,16 +1,15 @@
-title: Mr.Brown
-description: Mr.Brown is a responsive jekyll theme
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: 小さなVNパッチ。
+description: Here you can find a few small patches for some visual novels...
+url: "https://meru.github.io/svnp" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
-baseurl: "/mr-brown" # the subpath of your site, e.g. /blog
+baseurl: "/svnp" # the subpath of your site, e.g. /blog
 
 # Comments
-discus_identifier: mr-brown
-txtpen_identifier: raizer85
+discus_identifier:
 
 # Social settings
-twitter_url: https://twitter.com/artemsheludko_
-facebook_url: https://facebook.com/
-googleplus_url: https://plus.google.com/
-instagram_url: https://instagram.com
-github_url: https://github.com/artemsheludko/
+twitter_url: https://twitter.com/meruppi
+facebook_url:
+googleplus_url:
+instagram_url:
+github_url:
