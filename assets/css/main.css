@@ -1210,7 +1210,7 @@ blockquote {
   color: #9F9F9F;
   font-size: 0.7rem;
   padding: 0.5rem 2rem;
-  margin: 1rem -1.98rem;
+  margin: 0.2rem -1.98rem;
   background-color: rgba(0, 0, 0, 0.09);
   letter-spacing: 1px;
   width: calc(100% + 3.98rem);
@@ -1218,7 +1218,7 @@ blockquote {
 }
 
 .page-content {
-  padding: 2rem;
+  padding: 0 2rem 0 2rem;
   margin-bottom: 1rem;
 }
 .page-content h1 {
