@@ -491,12 +491,12 @@ blockquote {
 // Media request
 @media screen and (min-width: 500px) {
     html {
-        font-size:calc(15px + 5 * ((100vw - 500px) / 900))
+        font-size:calc(11px + 5 * ((100vw - 500px) / 900))
     }
 }
 
 @media screen and (min-width: 1400px) {
     html {
-        font-size: 20px
+        font-size: 16px
     }
 }
