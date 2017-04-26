@@ -1088,6 +1088,7 @@ blockquote {
 }
 
 .header-article {
+  font-size: 14px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
