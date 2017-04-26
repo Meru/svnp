@@ -1075,6 +1075,25 @@ blockquote {
           transform: scale3d(0.95, 0.95, 1);
 }
 
+.main-articles .post-image2 {
+  width: 100%;
+  display: block;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  margin: 0;
+  position: relative;
+  display: block;
+  max-width: 100%;
+  opacity: 0.95;
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+  filter: grayscale(100%);
+}
+.main-articles .post-image2:hover {
+  -webkit-transform: scale3d(0.95, 0.95, 1);
+          transform: scale3d(0.95, 0.95, 1);
+}
+
 .post-content {
   margin-bottom: 0;
   overflow: hidden;
