@@ -1156,22 +1156,22 @@ blockquote {
   padding: 4rem 3rem;
 }
 
-.social-icons {
+.social-iconsX {
   text-align: center;
   list-style: none;
   margin: 0 0 0.5rem 0;
   padding: 0;
 }
-.social-icons li {
+.social-iconsX li {
   display: inline-block;
   padding: 0 1em 0 0;
 }
-.social-icons li a {
+.social-iconsX li a {
   font-size: 2rem;
   -webkit-transition: all .25s;
   transition: all .25s;
 }
-.social-icons li a:hover {
+.social-iconsX li a:hover {
   color: wheat;
 }
 
