@@ -1044,7 +1044,7 @@ blockquote {
 }
 
 .main-articles {
-  border-radius: 8px;
+//border-radius: 8px;
   display: inline-block;
   background-color: #fff;
   width: 24%;
@@ -1056,8 +1056,8 @@ blockquote {
 .main-articles .post-image {
   width: 100%;
   display: block;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
+//border-top-left-radius: 8px;
+//border-top-right-radius: 8px;
   margin: 0;
   position: relative;
   display: block;
@@ -1074,8 +1074,8 @@ blockquote {
 .main-articles .post-image2 {
   width: 100%;
   display: block;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
+//border-top-left-radius: 8px;
+//border-top-right-radius: 8px;
   margin: 0;
   position: relative;
   display: block;
